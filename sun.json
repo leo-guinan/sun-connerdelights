@@ -1,0 +1,382 @@
+{
+  "id": "sun-connerdelights",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@connerdelights Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_3f1c7133f474",
+    "display_name": "connerdelights",
+    "user_id": "@connerdelights",
+    "description": "Community Archive-derived proof-of-search sun for @connerdelights.",
+    "document_count": 5999,
+    "word_count": 167163,
+    "active_days": 1227,
+    "emissions": [
+      "Good",
+      "Don",
+      "Think",
+      "Etc",
+      "Way",
+      "Many"
+    ],
+    "generated_at": "2026-06-27T15:45:00.001953+00:00",
+    "color": "#f59e0b",
+    "mass": 12.027
+  },
+  "planets": [
+    {
+      "id": "planet_6a97d2ae4589",
+      "name": "Good",
+      "summary": "Archive cluster around good: 4894 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "time",
+        "well",
+        "most",
+        "better"
+      ],
+      "artifacts": [
+        {
+          "id": "art_499e00d84d88",
+          "title": "Good receipt from 2023-07-21",
+          "excerpt": "Over a decade ago, I used to bookmark whenever anyone on Reddit accidentally revealed their real first name, in like a screenshot or something.\n\nI'd then wait several years, and randomly check those profiles. Whenever they told a personal story, I'd reply with \"Greg!?\"",
+          "source_document_id": "1682394995339464704",
+          "timestamp": "2023-07-21T14:19:58+00:00",
+          "url": "https://x.com/connerdelights/status/1682394995339464704",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, well, most."
+        },
+        {
+          "id": "art_aec4fa6902d3",
+          "title": "Good receipt from 2023-02-17",
+          "excerpt": "Publicly published my \"fix your back\" guide. This was a Notion doc that I shared with friends, and has an excellent (~80%) success rate at fixing back pain permanently.\n\nHope this will continue to help others! Link below. https://t.co/dnx3FED6RW",
+          "source_document_id": "1626634056896237568",
+          "timestamp": "2023-02-17T17:25:55+00:00",
+          "url": "https://x.com/connerdelights/status/1626634056896237568",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, well, most."
+        },
+        {
+          "id": "art_a91f7fe68d86",
+          "title": "Good receipt from 2025-08-07",
+          "excerpt": "This bar graph is brilliant https://t.co/EXQlkstmM7",
+          "source_document_id": "1953503460768592236",
+          "timestamp": "2025-08-07T17:08:14+00:00",
+          "url": "https://x.com/connerdelights/status/1953503460768592236",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, well, most."
+        },
+        {
+          "id": "art_e04e53ed023c",
+          "title": "Good receipt from 2023-02-17",
+          "excerpt": "https://t.co/j07OZJIyMB",
+          "source_document_id": "1626634214454984704",
+          "timestamp": "2023-02-17T17:26:32+00:00",
+          "url": "https://x.com/connerdelights/status/1626634214454984704",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, well, most."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_50ac5a50a31b",
+      "proof_score": 1,
+      "mass": 35.082,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_a3b453aec4f5",
+      "name": "Don",
+      "summary": "Archive cluster around don: 316 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "think",
+        "know",
+        "many"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5fe83541e9eb",
+          "title": "Don receipt from 2023-07-21",
+          "excerpt": "And they say we don't build cathedrals anymore...",
+          "source_document_id": "1682395073919737856",
+          "timestamp": "2023-07-21T14:20:17+00:00",
+          "url": "https://x.com/connerdelights/status/1682395073919737856",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, think, know."
+        },
+        {
+          "id": "art_2540bfa7809d",
+          "title": "Don receipt from 2024-09-12",
+          "excerpt": "They don't want you to know that this is optimal home organization. https://t.co/9ePQed9FtF",
+          "source_document_id": "1834287396399329774",
+          "timestamp": "2024-09-12T17:46:09+00:00",
+          "url": "https://x.com/connerdelights/status/1834287396399329774",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, think, know."
+        },
+        {
+          "id": "art_fb6aafce20aa",
+          "title": "Don receipt from 2024-08-10",
+          "excerpt": "@Austen I’ve successfully brought frozen hot sauce through. They don’t care.",
+          "source_document_id": "1822322748779106562",
+          "timestamp": "2024-08-10T17:22:55+00:00",
+          "url": "https://x.com/connerdelights/status/1822322748779106562",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, think, know."
+        },
+        {
+          "id": "art_008a2012dd78",
+          "title": "Don receipt from 2023-05-03",
+          "excerpt": "Weird quirk, curious if anyone else is like this.\n\nI have very low music lyric comprehension. As in, I just don't notice the words much. I love music, and notice the \"vibe\", but have little idea what some of my favorite songs are about.",
+          "source_document_id": "1653836393670651904",
+          "timestamp": "2023-05-03T18:58:17+00:00",
+          "url": "https://x.com/connerdelights/status/1653836393670651904",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, think, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e05ae7f1bd3c",
+      "proof_score": 0.926,
+      "mass": 28.911,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_d1711f3ccab7",
+      "name": "Think",
+      "summary": "Archive cluster around think: 224 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "way",
+        "actually",
+        "may",
+        "most"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a358103f5088",
+          "title": "Think receipt from 2025-07-31",
+          "excerpt": "@goblinodds I think amazon has a fairly unique threat vector:\n\nBasically anyone can sign up to sell products, and fulfilled by amazon products all get comingled.\n\nSo, if you can get Amazon to accept your product, you can launder it.\n\nBig stores buy from wholesalers / manufacturers.",
+          "source_document_id": "1951040073178423416",
+          "timestamp": "2025-07-31T21:59:36+00:00",
+          "url": "https://x.com/connerdelights/status/1951040073178423416",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, actually, may."
+        },
+        {
+          "id": "art_91acabaadfec",
+          "title": "Think receipt from 2024-09-24",
+          "excerpt": "@_ali_taylor Everyone has their incentives. He also has done fully sponsored videos, and those shoes.\n\nI think he’s still one of the highest quality reviewers for consumer tech, and then occasionally does a weird money-related thing that’s best to ignore. Sigh.",
+          "source_document_id": "1838657955492958348",
+          "timestamp": "2024-09-24T19:13:11+00:00",
+          "url": "https://x.com/connerdelights/status/1838657955492958348",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, actually, may."
+        },
+        {
+          "id": "art_4e29c1b4670a",
+          "title": "Think receipt from 2022-04-01",
+          "excerpt": "@nickcammarata Surfaces and Essences. It basically broke my ability to think in binary terms; everything is a relation.",
+          "source_document_id": "1509728611296632832",
+          "timestamp": "2022-04-01T03:05:24+00:00",
+          "url": "https://x.com/connerdelights/status/1509728611296632832",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, actually, may."
+        },
+        {
+          "id": "art_040ef12ca99a",
+          "title": "Think receipt from 2025-08-07",
+          "excerpt": "though, we all make mistakes, if you think this is how AI and AI marketing is bad, you've missed the point.",
+          "source_document_id": "1953526531235754266",
+          "timestamp": "2025-08-07T18:39:54+00:00",
+          "url": "https://x.com/connerdelights/status/1953526531235754266",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, actually, may."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2dcfa2a22d2e",
+      "proof_score": 0.892,
+      "mass": 27.56,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_d4c0162fcc9c",
+      "name": "Etc",
+      "summary": "Archive cluster around etc: 202 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "etc",
+        "something",
+        "many",
+        "well",
+        "most"
+      ],
+      "artifacts": [
+        {
+          "id": "art_014aabed12f3",
+          "title": "Etc receipt from 2024-03-10",
+          "excerpt": "My process to distill books/podcasts/etc into \"guides\" for large context large language models: https://t.co/LzpChaHhRE",
+          "source_document_id": "1766926636967223768",
+          "timestamp": "2024-03-10T20:38:32+00:00",
+          "url": "https://x.com/connerdelights/status/1766926636967223768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: etc, something, many, well."
+        },
+        {
+          "id": "art_283ddbef6460",
+          "title": "Etc receipt from 2021-01-16",
+          "excerpt": "Built a Chrome extension that locally replaces traditional email signoffs in Gmail (\"Thanks\", \"Best\", etc) with \"I'm just desperate to be loved\".\n\nServes as a gentle reminder of the humanness of everyone else, and helps you be kinder.\n\nhttps://t.co/NjJ53wkmDK https://t.co/SbpVhsAeYW",
+          "source_document_id": "1350496582894903297",
+          "timestamp": "2021-01-16T17:34:11+00:00",
+          "url": "https://x.com/connerdelights/status/1350496582894903297",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: etc, something, many, well."
+        },
+        {
+          "id": "art_b256fbe452ce",
+          "title": "Etc receipt from 2024-07-12",
+          "excerpt": "@visakanv Very much. Grew up in Georgia (the state, hot + humid). Few people I knew growing up were active.\n\nNow I live in the Colorado mountains (dry, rarely above 32°C in summer). I'm outside basically every day, as is most people I know.\n\nRunning, mountain biking, etc. Never miserable.",
+          "source_document_id": "1811807349692321807",
+          "timestamp": "2024-07-12T16:58:28+00:00",
+          "url": "https://x.com/connerdelights/status/1811807349692321807",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: etc, something, many, well."
+        },
+        {
+          "id": "art_931eaf3c754b",
+          "title": "Etc receipt from 2024-08-27",
+          "excerpt": "Broadly, popular interest in science is resonance with an aesthetic — one related to using numbers, making causal claims, etc.\n\nOne of the reasons Huberman is so popular. Confidence, correctly articulated technical words, the aura of understanding. https://t.co/w0zxc9IIo4",
+          "source_document_id": "1828488234026045911",
+          "timestamp": "2024-08-27T17:42:21+00:00",
+          "url": "https://x.com/connerdelights/status/1828488234026045911",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: etc, something, many, well."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_05d209b8bac4",
+      "proof_score": 0.881,
+      "mass": 27.303,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_37b66e58e47d",
+      "name": "Way",
+      "summary": "Archive cluster around way: 202 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "could",
+        "better",
+        "many",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fdb78bafa494",
+          "title": "Way receipt from 2024-07-27",
+          "excerpt": "@_ali_taylor Yeah, coming from Georgia unconnected to tech, a lot opened for me once I had a “credentialed resume”.\n\nI would have been stuck in a way worse place if I hadn’t lucked/skilled into that first.",
+          "source_document_id": "1817049308535103497",
+          "timestamp": "2024-07-27T04:08:08+00:00",
+          "url": "https://x.com/connerdelights/status/1817049308535103497",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, could, better, many."
+        },
+        {
+          "id": "art_64f416414907",
+          "title": "Way receipt from 2023-09-11",
+          "excerpt": "@joodalooped Many companies that want non-determinism use their own form of string-based ID.\n\nYouTube video IDs are random, but shorter than UUID (and not hex).\n\nFairly common to encrypt an internal autoinc ID in a compact way, so externally it’s an opaque string, but edge services can…",
+          "source_document_id": "1701318782709596279",
+          "timestamp": "2023-09-11T19:36:21+00:00",
+          "url": "https://x.com/connerdelights/status/1701318782709596279",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, could, better, many."
+        },
+        {
+          "id": "art_c721f9fe8e45",
+          "title": "Way receipt from 2024-01-31",
+          "excerpt": "@benlandautaylor Agreed, surprised it took so long. It's design is to find annotations that appeal to people who typically disagree, and making fun of institutions like this (in this way) probably appeals to ~everyone.\n\nNeeds some Wikipedia-moderator energy around the core use case.",
+          "source_document_id": "1752811674753781850",
+          "timestamp": "2024-01-31T21:50:43+00:00",
+          "url": "https://x.com/connerdelights/status/1752811674753781850",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, could, better, many."
+        },
+        {
+          "id": "art_b47ae2d018a4",
+          "title": "Way receipt from 2020-12-09",
+          "excerpt": "My guess on how some communities do this so well:\n\nOver index early during community building to create the vibe you want. ex: Aggressively select for low ego, then act like this is the way things *are*.\n\nSoon, it’s self-perpetuating, because people emulate their surroundings. https://t.co/ofQto7fFO8 https://t.co/zVRfE7MT2d",
+          "source_document_id": "1336813135429169153",
+          "timestamp": "2020-12-09T23:21:02+00:00",
+          "url": "https://x.com/connerdelights/status/1336813135429169153",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, could, better, many."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8d88dc2ae015",
+      "proof_score": 0.881,
+      "mass": 26.688,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_4a6fc9a7ff04",
+      "name": "Many",
+      "summary": "Archive cluster around many: 161 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "many",
+        "most",
+        "things",
+        "other",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c5d128300774",
+          "title": "Many receipt from 2024-07-26",
+          "excerpt": "It was a lot, but near immediately, things started to change. A month later, she ran 13 miles on trail.\n\nThis year, she’s run Grand Canyon rim to rim and many long runs. 14ers, big climbs/descents, stacking distance. https://t.co/NKjf2YuCp2",
+          "source_document_id": "1816834722955428163",
+          "timestamp": "2024-07-26T13:55:27+00:00",
+          "url": "https://x.com/connerdelights/status/1816834722955428163",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, most, things, other."
+        },
+        {
+          "id": "art_cb64e3702a01",
+          "title": "Many receipt from 2020-03-08",
+          "excerpt": "@ATabarrok Increase. Net demand represents cohorts of separate demand curves. Many wouldn’t fly for any price. Lowering prices has minimal increase in demand from people who are price sensitive, and makes less from price insensitive passengers.\n\nFocus on the 1/3 of the flight that need it.",
+          "source_document_id": "1236695334887120896",
+          "timestamp": "2020-03-08T16:48:39+00:00",
+          "url": "https://x.com/connerdelights/status/1236695334887120896",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, most, things, other."
+        },
+        {
+          "id": "art_dc60cfc37008",
+          "title": "Many receipt from 2025-02-13",
+          "excerpt": "@OrphicCapital I was so impressed. Obviously didn’t watch the whole thing, but there were so many norms so deeply embraced.",
+          "source_document_id": "1889871799296598429",
+          "timestamp": "2025-02-13T02:58:43+00:00",
+          "url": "https://x.com/connerdelights/status/1889871799296598429",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, most, things, other."
+        },
+        {
+          "id": "art_568bef792394",
+          "title": "Many receipt from 2024-08-16",
+          "excerpt": "ML: Murphy’s Machine Learning: A Probabilistic Perspective\nLinear Algebra: Strang\nCS: many, but includes Abelson and Sussman\nPhysics: Feynman lectures\nCryptography: Schneier\nLinguistics: Chomsky\nArchitecture: Christopher Alexander\n\nHelp me find ones for other domains, please!",
+          "source_document_id": "1824461477786349995",
+          "timestamp": "2024-08-16T15:01:27+00:00",
+          "url": "https://x.com/connerdelights/status/1824461477786349995",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, most, things, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3f4db91fce82",
+      "proof_score": 0.859,
+      "mass": 26.071,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
